@@ -1,0 +1,18 @@
+data_ingestion:
+  zip_path: "artifacts/archive.zip"
+  extract_path: "artifacts/"
+  data_dir: "artifacts/processed_data"
+  output_root: "artifacts/final_dataset"
+
+data_transformation:
+  batch_size: 32
+  img_size: 224
+  num_workers: 4
+
+model_trainer:
+  epochs: 20
+  learning_rate: 0.0005
+  weight_decay: 0.001
+  model_name: "resnet50"
+  patience: 3
+  resume: false
