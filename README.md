@@ -17,3 +17,9 @@ This repository follows a structured ML project layout containing:
 
 2. Run the pipeline:
 `python -m src.pipeline.training_pipeline`
+
+## Acknowledgment
+This project is developed for learning purposes at **Chhatrapati Shivaji Maharaj University**.
+**Author:** Nayan Badgujar
+**Collaborators:** Chayan Sinam, Abhinav Pandey, Aaryan Singh, Gaurav Mali
+
