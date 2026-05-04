@@ -292,7 +292,7 @@ model_trainer:
 
 - Chayan Sinam
 - Abhinav Pandey
-- Aaryan Singh
+- Aryan Singh
 - Gaurav Mali
 
 Developed for learning purposes at **Chhatrapati Shivaji Maharaj University**.
