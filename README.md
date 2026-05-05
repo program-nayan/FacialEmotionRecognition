@@ -177,19 +177,19 @@ pip install -r requirements.txt
 
 Download the data from kaggle (https://www.kaggle.com/datasets/fahadullaha/facial-emotion-recognition-dataset) in artifacts folder
 
-### Step 4: Run the training pipeline
+### Step 5: Run the training pipeline
 
 ```bash
 python -m src.pipeline.training_pipeline
 ```
 
-### Step 5: Run the evaluation pipeline
+### Step 6: Run the evaluation pipeline
 
 ```bash
 python -m src.pipeline.evaluation_pipeline
 ```
 
-### Step 6: Launch the web interface
+### Step 7: Launch the web interface
 
 ```bash
 python app.py
