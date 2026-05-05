@@ -173,6 +173,10 @@ myenv\Scripts\activate      # Windows
 pip install -r requirements.txt
 ```
 
+###  Step 4: Download  the data in artifacts directory
+
+Download the data from kaggle (https://www.kaggle.com/datasets/fahadullaha/facial-emotion-recognition-dataset) in artifacts folder
+
 ### Step 4: Run the training pipeline
 
 ```bash
