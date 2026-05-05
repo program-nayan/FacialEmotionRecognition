@@ -294,7 +294,7 @@ model_trainer:
 
 ## 🤝 Collaborators
 
-- Chayan Sinam
+- Chayan Kumar Sinam
 - Abhinav Pandey
 - Aryan Singh
 - Gaurav Mali
